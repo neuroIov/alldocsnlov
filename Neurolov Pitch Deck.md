@@ -118,17 +118,15 @@ pie title "Revenue Distribution"
 
 ## Slide 10: Roadmap
 ### Execution Timeline
+    - title 2024-2025 Milestones
+    - dateFormat YYYY-Q1
+    - section Platform
+    - Beta Launch      :done, 2024-Q1, 90d
+    - Mainnet         :active, 2024-Q2, 90d
+    - section Growth
+    - Token Sale      :2024-Q3, 60d
+    - Exchange Listing :2024-Q4, 60d
 
-```mermaid
-    title 2024-2025 Milestones
-    dateFormat YYYY-Q1
-    section Platform
-    Beta Launch      :done, 2024-Q1, 90d
-    Mainnet         :active, 2024-Q2, 90d
-    section Growth
-    Token Sale      :2024-Q3, 60d
-    Exchange Listing :2024-Q4, 60d
-```
 
 ## Slide 11: Investment
 ### $1M Seed Round
