@@ -336,10 +336,10 @@ const RewardDashboard = () => {
 3. Regular performance monitoring
 4. Follow security guidelines
 
-Need more information about:
+Pending:
 1. Advanced optimization techniques?
 2. Custom integration scenarios?
 3. Specific framework implementations?
 4. Reward calculation details?
 
-Let us know and we'll provide more detailed documentation!
+
