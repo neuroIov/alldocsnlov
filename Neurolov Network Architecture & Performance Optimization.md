@@ -271,7 +271,7 @@ class MetricsCollector {
 
 ---
 
-Need more details about any specific aspect? Let us know, and we'll provide more information! 
+
 
 Remember:
 - Start small and grow with us
