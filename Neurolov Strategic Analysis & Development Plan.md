@@ -312,4 +312,3 @@ interface PartnershipStrategy {
 - IPO potential in 5 years
 - Token value appreciation
 
-[Need specific expansion on any area or additional sections?]
