@@ -24,14 +24,7 @@ graph TB
 - Complex setup & deployment
 - Limited accessibility
 
-```typescript
-interface MarketPain {
-  accessibility: "Limited to technical users",
-  cost: "Prohibitively expensive",
-  complexity: "High barrier to entry",
-  efficiency: "Low resource utilization (~30%)"
-}
-```
+
 
 ## Slide 3: Solution
 ### Browser-Based GPU Computing Platform
@@ -53,17 +46,12 @@ graph LR
 ## Slide 4: Market Size
 ### $87.5B Opportunity
 
-```typescript
-interface MarketMetrics {
-  total: "$87.5B by 2027",
-  cagr: "32.5% annual growth",
-  segments: {
-    ai: "45% - $39.4B",
-    scientific: "30% - $26.2B",
-    rendering: "25% - $21.9B"
-  }
-}
-```
+- Total Market Size: $87.5B by 2027
+- Annual Growth Rate: 32.5% annual growth
+  ## Market Segments:
+- AI & Machine Learning: 45% - $39.4B
+- Scientific Computing: 30% - $26.2B
+- Rendering: 25% - $21.9B
 
 ## Slide 5: Traction & Validation
 ### Current Metrics
@@ -132,7 +120,6 @@ pie title "Revenue Distribution"
 ### Execution Timeline
 
 ```mermaid
-gantt
     title 2024-2025 Milestones
     dateFormat YYYY-Q1
     section Platform
