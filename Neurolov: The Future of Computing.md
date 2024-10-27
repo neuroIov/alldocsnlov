@@ -241,14 +241,7 @@ Questions?
 - Call: 24/7 helpline
 ```
 
-Would you like me to:
+Pedning:
 1. Add more real-world examples?
 2. Include more visuals?
-3. Simplify any concepts further?
-4. Add specific sections for different audiences?
 
-This presentation is designed to be:
-- Jargon-free
-- Easy to understand
-- Relatable
-- Engaging for non-technical people
