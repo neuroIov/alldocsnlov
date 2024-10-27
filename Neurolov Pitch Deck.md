@@ -66,20 +66,16 @@ graph LR
 ## Slide 6: Technology
 ### Technical Innovation
 
-```typescript
-interface TechStack {
-  frontend: {
-    webGPU: "Browser-based computing",
-    framework: "React + Next.js",
-    integration: "Telegram micro-app"
-  },
-  backend: {
-    compute: "Distributed GPU network",
-    blockchain: "Solana + Smart Contracts",
-    security: "Multi-layer encryption"
-  }
-}
-```
+## interface TechStack 
+  - frontend
+    - webGPU: Browser-based computing
+    - framework: React + Next.js
+    - integration: Telegram micro-app
+  
+ -  backend
+ -  compute: Distributed GPU network
+ -  blockchain: Solana + Smart Contracts
+ -  security: Multi-layer encryption
 
 ## Slide 7: Business Model
 ### Revenue Streams & Unit Economics
@@ -131,42 +127,36 @@ pie title "Revenue Distribution"
 ## Slide 11: Investment
 ### $1M Seed Round
 
-```typescript
-interface FundUse {
-  development: {
-    amount: "$400K",
-    focus: [
-      "Core platform enhancement",
-      "AI marketplace development",
-      "Security implementation"
-    ]
-  },
-  operations: {
-    amount: "$250K",
-    focus: [
-      "Team expansion",
-      "Infrastructure scaling",
-      "Legal & compliance"
-    ]
-  },
-  marketing: {
-    amount: "$200K",
-    focus: [
-      "User acquisition",
-      "Community building",
-      "Partnership development"
-    ]
-  },
-  reserve: {
-    amount: "$150K",
-    focus: [
-      "Working capital",
-      "Emergency fund",
-      "Opportunities"
-    ]
-  }
-}
-```
+### FundUse 
+ -  development
+    - amount: "$400K"
+    - focus
+    -  "Core platform enhancement"
+    -  "AI marketplace development"
+    -  "Security implementation"
+    
+
+-  operations
+    - amount: $250K
+    - focus: 
+    - Team expansion
+    - Infrastructure scaling
+    - Legal & compliance
+  
+-  marketing
+   - amount: $200K
+   - focus:
+   - User acquisition
+   - Community building
+   - Partnership development
+ 
+ - reserve: 
+   - amount: $150K
+   - focus: 
+   -   Working capital
+   -   Emergency fund
+   -  Opportunities
+   
 
 ## Slide 12: Thank You
 ### Contact Information
