@@ -360,4 +360,3 @@ interface NodeInfo {
 }
 ```
 
-[Continued with implementation details. Let me know if you'd like me to focus on any specific aspect.]
