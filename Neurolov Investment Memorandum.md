@@ -248,10 +248,218 @@ interface InvestmentTerms {
   }
 }
 ```
+## 8. Detailed Financials & Projections
 
-Peding:
-1. Detailed financials & projections
-2. Team & governance structure
-3. Legal & compliance framework
-4. Investment process & timeline
+### 8.1 Five-Year Financial Forecast
+```typescript
+interface FinancialProjections {
+  revenue: {
+    Y1: "$3.75M",
+    Y2: "$21.5M",
+    Y3: "$59M",
+    Y4: "$120M",
+    Y5: "$250M"
+  },
+  costs: {
+    Y1: {
+      development: "$1.5M",
+      marketing: "$750K",
+      operations: "$500K",
+      total: "$2.75M"
+    },
+    Y2: {
+      development: "$3M",
+      marketing: "$2M",
+      operations: "$1.5M",
+      total: "$6.5M"
+    }
+  },
+  margins: {
+    Y1: "65%",
+    Y2: "70%",
+    Y3: "75%",
+    Y4: "78%",
+    Y5: "80%"
+  }
+}
+```
+
+### 8.2 Unit Economics
+```mermaid
+graph TB
+    subgraph Per Customer Metrics
+        A[Customer Acquisition Cost] --> B[$30]
+        C[Lifetime Value] --> D[$300]
+        E[Payback Period] --> F[4 months]
+    end
+    
+    subgraph Platform Metrics
+        G[Cost per TFLOP] --> H[$0.30]
+        I[Revenue per Node] --> J[$150/month]
+        K[Network Effect] --> L[2x yearly]
+    end
+```
+
+### 8.3 Cash Flow Projections
+| Quarter | Revenue | Expenses | Cash Flow | Runway |
+|---------|---------|----------|-----------|---------|
+| Q1 2025 | $500K | $400K | $100K | 18 months |
+| Q2 2025 | $1M | $600K | $400K | 20 months |
+| Q3 2025 | $2M | $1M | $1M | 24 months |
+| Q4 2025 | $3.5M | $1.5M | $2M | 30 months |
+
+## 9. Team & Governance Structure
+
+### 9.1 Core Team
+```typescript
+interface TeamStructure {
+  executive: {
+    CEO: {
+      name: "[Name]",
+      background: "Ex-Google AI",
+      education: "Stanford PhD",
+      expertise: "AI & Distributed Systems"
+    },
+    CTO: {
+      name: "[Name]",
+      background: "Ex-NVIDIA",
+      education: "MIT MS",
+      expertise: "GPU Architecture"
+    },
+    COO: {
+      name: "[Name]",
+      background: "Ex-AWS",
+      education: "Harvard MBA",
+      expertise: "Operations & Scale"
+    }
+  },
+  advisors: [
+    {
+      name: "[Name]",
+      role: "Technical Advisor",
+      company: "Major GPU Manufacturer",
+      contribution: "Technical Strategy"
+    },
+    {
+      name: "[Name]",
+      role: "Business Advisor",
+      company: "Top VC Firm",
+      contribution: "Growth Strategy"
+    }
+  ]
+}
+```
+
+### 9.2 Governance Framework
+```mermaid
+graph TB
+    A[Board of Directors] --> B[Executive Team]
+    A --> C[Advisory Board]
+    
+    B --> D[Development]
+    B --> E[Operations]
+    B --> F[Business Dev]
+    
+    C --> G[Technical Committee]
+    C --> H[Compliance Committee]
+    C --> I[Strategy Committee]
+```
+
+## 10. Legal & Compliance Framework
+
+### 10.1 Legal Structure
+```typescript
+interface LegalFramework {
+  corporate: {
+    entity: "Delaware C-Corp",
+    subsidiaries: {
+      tech: "UK Limited",
+      operations: "Singapore Pte"
+    }
+  },
+  compliance: {
+    licenses: [
+      "Virtual Currency License",
+      "Cloud Service Provider",
+      "Data Protection"
+    ],
+    auditors: [
+      "Financial: Big 4 Firm",
+      "Security: Leading Audit Firm",
+      "Smart Contract: Top Blockchain Auditor"
+    ]
+  }
+}
+```
+
+### 10.2 Regulatory Compliance
+| Jurisdiction | Regulation | Status | Timeline |
+|--------------|------------|---------|----------|
+| US | FinCEN | Registered | Complete |
+| EU | GDPR | Compliant | Complete |
+| Singapore | PSA | In Process | Q4 2024 |
+| UK | FCA | Planned | Q1 2025 |
+
+## 11. Investment Process & Timeline
+
+### 11.1 Investment Workflow
+```mermaid
+graph LR
+    A[Initial Contact] --> B[NDA & KYC]
+    B --> C[Due Diligence]
+    C --> D[Term Sheet]
+    D --> E[Legal Review]
+    E --> F[Investment Close]
+    F --> G[Onboarding]
+```
+
+### 11.2 Key Dates & Milestones
+```typescript
+interface InvestmentTimeline {
+  fundraising: {
+    start: "October 2024",
+    firstClose: "December 2024",
+    finalClose: "January 2025"
+  },
+  milestones: {
+    Q4_2024: [
+      "Beta platform launch",
+      "1,000 active nodes",
+      "First enterprise pilots"
+    ],
+    Q1_2025: [
+      "Token generation event",
+      "Exchange listings",
+      "Global expansion"
+    ]
+  },
+  exits: {
+    strategic: "2027-2028",
+    token: "Q2 2025",
+    expectedReturn: "10-15x"
+  }
+}
+```
+
+### 11.3 Due Diligence Package
+Available materials include:
+- Technical architecture documentation
+- Financial models & projections
+- Customer pipeline & contracts
+- Team backgrounds & references
+- Market research & analysis
+- Legal & compliance documentation
+- Partnership agreements
+- Product roadmap & demos
+
+## Contact Information
+For investment inquiries:
+- Email: invest@neurolov.com
+- Phone: [Number]
+- Telegram: @NeurolovInvest
+
+[Company Address]
+[Legal Disclaimers & Confidentiality Notice]
+
+
 
