@@ -186,8 +186,6 @@ contract ProofOfComputation {
 }
 ```
 
-[Continuing from previous section...]
-
 ## 4. Token Economics & Incentive Structure
 
 ### 4.1 NLOV Token Specification
@@ -333,20 +331,7 @@ gantt
   - Governance implementation
   - Marketing campaign
 
-## 7. Team & Advisors
 
-[Team section placeholder - Add professional headshots and bios]
-
-### 7.1 Core Team
-- CEO/Founder: [Name] - Ex-Google AI, Stanford PhD
-- CTO: [Name] - Ex-NVIDIA, MIT Graduate
-- Head of Engineering: [Name] - Ex-AWS, Berkeley MS
-- Chief Scientist: [Name] - PhD in Distributed Systems
-
-### 7.2 Advisors
-- [Name] - Partner at [VC Firm]
-- [Name] - Ex-CTO of [Major Tech Company]
-- [Name] - Blockchain Protocol Researcher
 
 ## 8. Partnership & Integration Strategy
 
@@ -389,10 +374,7 @@ Neurolov represents a paradigm shift in distributed computing, making GPU resour
 
 ## References & Citations
 
-[1] Gartner. (2024). "GPU Computing Market Analysis"
-[2] IEEE. (2024). "Advances in Distributed Computing"
-[3] Nature Computing. (2023). "Browser-based GPU Computing"
-[4] arXiv:2401.12345. "WebGPU: Next Generation Web Computing"
+# add from doc
 
 ## Legal Disclaimer
 
