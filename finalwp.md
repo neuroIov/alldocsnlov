@@ -1,4 +1,4 @@
-# Neurolov 1Technical Paper v3.0
+# Neurolov Technical Paper v3.0
 *Democratizing AI Compute Through Decentralized Browser-Based GPU Networks*
 
 ## Abstract
